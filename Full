@@ -2798,8 +2798,8 @@ https://prepublish.f.qaotic.net/b12/ngrp:vorterix_video1-20057_all/vorterix_vide
 #EXTINF:-1 tvg-logo="https://us0-cdn.onlineradiobox.com/img/logo/2/2852.v5.png" group-title="RADIO 1", FM RITUAL 106.1 FM RIO GRANDE TIERRA DEL FUEGO
 http://streamyes.alsolnet.com/fmritualvideo/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.urbana98.com/uploads/logo/logo_5f8f30311e770.png" group-title="RADIO 1", SEÑAL URBANA 98.9 FM VERONICA
-https://inliveserver.com:1936/14148/14148/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://urbanaonline.com.ar/wp-content/uploads/2026/04/cropped-c51508d6-ba18-4bf6-9a87-6a338089cde0.png" group-title="RADIO 1", SEÑAL URBANA + tv VERONICA
+https://vtm2.msinteractiva.com/urbanamas/urbanamas/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--GOOD.png" group-title="RADIO 1", GOOD RADIO 101.1 FM JESUS MARIA CORDOBA
 http://streamyes.alsolnet.com/goodradio/live/playlist.m3u8
